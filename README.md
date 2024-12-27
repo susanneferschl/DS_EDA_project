@@ -1,7 +1,8 @@
 [![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
-# ds-project-template
+# Data Analysis project: House Sales in King County 
 
-Template for creating ds simple projects
+Exploratory data analysis on King County house prices. The objective of this project is to find the 5 best houses for clients with specific needs and requirements. The house requirements of this project are houses with 3-6 bedrooms, with 2 bathrooms, with a basement (preferred), in a condition that allows to move in immediately and which are below the median house price in the area. 
+
 
 ## Requirements
 
